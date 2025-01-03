@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊I'm currently working on Machine Learning and Data Science<br>🧑🏽‍💻I'm looking to collaborate with software engineers and similar mindset geeks who thinks out of the box solution<br>🖥️I'm looking for help with Integration part and Advanced training and testing of ML Models<br>🔆I'm Currently pursing my B.Tech Degree and advancing my problem solving skills through DSA<br>Ask me about Gen AI and Prompts <br>☕️Fun fact- I Procrastinate but Produce finest results<br>📈Currently Exploring the field of Gen AI <br>✨Practicing DSA problems <br>Frequent Participator In Hackathons
+📊I'm currently working on Machine Learning and Data Science<br>🧑🏽‍💻I'm looking to collaborate with software engineers and similar mindset geeks who thinks out of the box solution<br>🖥️I'm looking for help with Integration part and Advanced training and testing of ML Models<br>🔆I'm Currently pursing my B.Tech Degree and advancing my problem solving skills through DSA<br>Ask me about Gen AI and Prompts <br>☕️Fun fact- I Procrastinate but Produce finest results<br>📈Currently Exploring the field of Gen AI <br>✨Practicing DSA problems <br>🏁Frequent Participator In Hackathons
 
 
 ## 🌐 Socials:
